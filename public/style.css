@@ -1,0 +1,95 @@
+.navbar{
+    background-color:rgb(197, 4, 4) !important;
+}
+.nav-link{
+    color: white !important;
+    font-weight: bold !important;
+}
+h1{
+    color:rgb(197, 4, 4) ;
+    text-align: center;
+    text-decoration: underline;
+    margin-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px red;
+}
+.btn-primary{
+    background-color:rgb(197, 4, 4) ;
+    width: 100%;
+}
+.maincard{
+    margin-top: 30px;
+    display:flex ;
+    
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+@media only screen and(max-width:600px){
+    .maincard{
+        text-align: center;
+    }
+}
+
+.statement{
+    background-color:rgb(197, 4, 4) ;
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.btn-secondary{
+background-color: rgb(197, 4, 4) ;
+color: white;
+
+} 
+
+.copyright{
+    color: rgb(197, 4, 4);
+    background-color:white;
+    margin-left: 45px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    }
+    .navbar-text{
+        padding: 20px;
+    }
+    .about{
+background-color: wheat;
+color: rgb(197, 4, 4);
+text-align: center;
+font-size: medium;
+font-family: 'Times New Roman', Times, serif;
+font-style: italic;
+    }
+    h2{
+        background-color: wheat;
+color: rgb(197, 4, 4);
+text-align: center;
+
+font-family: 'Times New Roman', Times, serif;
+font-style: italic;
+    }
+    .contact{
+        color: rgb(197, 4, 4);
+        margin-left: 30px;
+        font-size: medium;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: bold;
+        font-style: italic;
+        
+    }
+    table{
+        margin-left: 50px;
+        margin-top: 10px;
+        
+    }
+    form{
+        background-color: wheat;
+    }
+    
+   
